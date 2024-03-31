@@ -1,6 +1,4 @@
 //Square - Zein Al-Jaradat
-package loadingIcon;
-
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Graphics2D;

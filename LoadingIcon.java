@@ -1,6 +1,4 @@
 //Loading Icon - Zein Al-Jaradat
-package loadingIcon;
-
 import java.awt.BasicStroke;
 import java.awt.Color;
 import java.awt.Dimension;

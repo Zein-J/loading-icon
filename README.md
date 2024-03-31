@@ -1,0 +1,1 @@
+Repeating loading animation
